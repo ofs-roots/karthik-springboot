@@ -1,9 +1,2 @@
 server:
-    port: 8080
-
-#endpoints:
-    #cors:
-        #allow-credentials: true
-        #allowed-origins: '*'
-        #allowed-methods: '*'
-        #allowed-headers: '*'
+    port: 7070
