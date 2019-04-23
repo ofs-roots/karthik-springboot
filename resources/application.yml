@@ -1,2 +1,15 @@
 server:
-    port: 7070
+    port: 6060
+
+#cors:
+#  allowed-methods: GET,HEAD,OPTIONS,POST,PUT,DELETE
+#  allowed-headers: X-Requested-With,Origin,Content-Type,Accept,Authorization,Access-Control-Allow-Origin,Access-Control-Allow-Headers
+#  exposed-headers: Access-Control-Allow-Headers,Authorization,x-xsrf-token,Access-Control-Allow-Methods,Origin,Accept,X-Requested-With,Content-Type,Access-Control-Request-Method,Access-Control-Request-Headers,Access-Control-Max-Age,Access-Control-Allow-Origin
+#
+
+#endpoints:
+    #cors:
+        #allow-credentials: '*'
+        #allowed-origins: '*'
+        #allowed-methods: '*'
+        #allowed-headers: '*'

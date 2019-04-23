@@ -13,10 +13,6 @@ import com.fasterxml.jackson.databind.type.CollectionType;
  * @author karthikeyan.u
  * @since Mar 19, 2019
  */
-/**
- * @author karthikeyan.u
- * @since Nov 14, 2018
- */
 
 public class JsonUtil {
 
